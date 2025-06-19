@@ -31,7 +31,7 @@ This repository contains a multi-phase data analytics project focused on heart d
 - **Matplotlib, Seaborn**
 - **Scikit-learn**
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
    ```bash
